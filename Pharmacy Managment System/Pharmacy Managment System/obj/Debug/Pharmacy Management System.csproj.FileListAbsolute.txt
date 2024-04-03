@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\bin\Debug\Pharmacy Managment System.exe.config
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\bin\Debug\Pharmacy Managment System.exe
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\bin\Debug\Pharmacy Managment System.pdb
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Form1.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Properties.Resources.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy Managment System.exe
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy Managment System.pdb
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Login.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Admin.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Dashboard.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\bin\Debug\PharmacyDB.mdf
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\bin\Debug\PharmacyDB_log.ldf
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Customers.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Manufacturer.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Medicines.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Sellers.resources
+C:\Users\user\source\repos\Pharmacy Managment System\Pharmacy Managment System\obj\Debug\Pharmacy_Managment_System.Selling.resources
